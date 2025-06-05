@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abstralexis" alt="abstralexis" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-rho-woad.vercel.app/?username=abstralexis&theme=catppuccin_mocha" alt="abstralexis" /></a> </p>
 
 <h2 align="left"> The UK's Number One (#1) Catppuccin, Nushell, and Rust Fangirl* </h3>
 <p align="left">
